@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <h1>
-    Test github actions !
+    Test github actions 2 !
   </h1>
 </template>
 
