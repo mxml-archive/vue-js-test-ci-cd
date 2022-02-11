@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <h1>
-    la ça fonctionne !!
+    Nono la best
   </h1>
 </template>
 
