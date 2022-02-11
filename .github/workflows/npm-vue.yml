@@ -26,7 +26,7 @@ jobs:
           key: ${{ secrets.PRIVATE_KEY }}
           port: 22
           script: |
-            cd ~/var/www/vue-js-test-ci-cd
+            cd /var/www/vue-js-test-ci-cd
             git pull origin master
             git status
             npm install
