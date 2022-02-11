@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <h1>
-    Test github actions VPS LOVE !
+    Test github actions VPS LOVE 1!
   </h1>
 </template>
 
