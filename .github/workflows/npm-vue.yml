@@ -27,7 +27,7 @@ jobs:
           port: 22
           script: |
             cd /var/www/vue-js-test-ci-cd
-            git pull origin master
+            git pull origin main
             git status
             npm install
             npm run build
